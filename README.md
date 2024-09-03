@@ -4,3 +4,7 @@ Az egyszerűsített változatba nem kell beépíteni a CD4011 IC-t, a 4 diórdá
 A jeleket az IC61 es 13 as (A13) 14 es (A12) és 4 es (/CE) lábakról kell levenni, s az eprom 2 es (A12) 26os (A13) 20 as (/CE) lábaira bekötni.
 R1 és R2 értéke 10 kOhm.
 <img src ='./Képernyőkép 2024-09-03 170755.png'>
+<img src ='./IMG_20190715_175212_7.jpg'>
+<img src ='./IMG_20190715_175157_2.jpg'>
+<img src ='./IMG_20240206_200540941.jpg'>
+<img src ='./IMG_20230312_133312.jpg'>
