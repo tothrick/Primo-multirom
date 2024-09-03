@@ -6,5 +6,9 @@ R1 és R2 értéke 10 kOhm.
 <img src ='./Képernyőkép 2024-09-03 170755.png'>
 <img src ='./IMG_20190715_175212_7.jpg'>
 <img src ='./IMG_20190715_175157_2.jpg'>
+
+Lusta változat
 <img src ='./IMG_20240206_200540941.jpg'>
+
+Teljes változat
 <img src ='./IMG_20230312_133312.jpg'>
